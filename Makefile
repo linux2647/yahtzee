@@ -1,4 +1,7 @@
 # vi: set noexpandtab
+# 
+# Makefile based off of Tia Newhall's documentation on how to write a Makefile
+# http://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
 
 TARGET=yahtzee
 CC=g++
