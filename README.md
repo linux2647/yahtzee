@@ -1,8 +1,8 @@
 yahtzee
 =======
 
-A solitaire Yahtzee implementation written in C++.
-Written by Stephen Howell
+A solitaire Yahtzee implementation written in C++.<br>
+Written by Stephen Howell<br>
 Version 1
 
 This program was written as an exercise to learn C++, focusing on the
@@ -11,12 +11,12 @@ object-orientated nature of the language.
 Building
 --------
 
-running `make' will build the exectuable.
+Running `make` will build the executable.
 
 Running
 -------
 
-    ./yahtzee
+    $ ./yahtzee
 
 
 Requirements
